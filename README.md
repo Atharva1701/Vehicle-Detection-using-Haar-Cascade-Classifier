@@ -16,5 +16,5 @@ Object Detection using Haar feature-based cascade classifiers is an effective ob
 
 <br>
 The output is :
-<br>![Output](https://github.com/Atharva1701/Vehicle-Detection-using-Haar-Cascade-Classifier/blob/master/images/outp.jpg)
+<br>![Output image](https://github.com/Atharva1701/Vehicle-Detection-using-Haar-Cascade-Classifier/blob/master/images/outp.jpg)
 
