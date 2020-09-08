@@ -13,3 +13,8 @@ Object Detection using Haar feature-based cascade classifiers is an effective ob
 <br>![Postive image superimposed on negative](https://github.com/Atharva1701/Vehicle-Detection-using-Haar-Cascade-Classifier/blob/master/images/0012_0030_0009_0063_0063.jpg)
 <br>![Postive image superimposed on negative](https://github.com/Atharva1701/Vehicle-Detection-using-Haar-Cascade-Classifier/blob/master/images/0012_0034_0007_0040_0040.jpg)
 
+
+<br>
+The output is :
+<br>![Output](https://github.com/Atharva1701/Vehicle-Detection-using-Haar-Cascade-Classifier/blob/master/images/outp.jpg)
+
