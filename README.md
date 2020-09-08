@@ -4,6 +4,11 @@ Object Detection using Haar feature-based cascade classifiers is an effective ob
 <br>The postive images are of 20x20 size and negative images are of 100x100 size.
 <br>THe postitve images are super imposed on the negative images.
 <br>The output is a XML file.
+<br>
+<br>
+<br><br>
+<br>
+<br>Following are some of the superimposed images : 
 <br>![Postive image superimposed on negative](https://github.com/Atharva1701/Vehicle-Detection-using-Haar-Cascade-Classifier/blob/master/images/0012_0024_0015_0048_0048.jpg)
 <br>![Postive image superimposed on negative](https://github.com/Atharva1701/Vehicle-Detection-using-Haar-Cascade-Classifier/blob/master/images/0012_0030_0009_0063_0063.jpg)
 <br>![Postive image superimposed on negative](https://github.com/Atharva1701/Vehicle-Detection-using-Haar-Cascade-Classifier/blob/master/images/0012_0034_0007_0040_0040.jpg)
